@@ -12,11 +12,13 @@ It’s a powerful chat application built using the MERN Stack with some exciting
 
 With ChatMaadi, I’ve aimed to create not just a project but a foundation for learning and exploring cutting-edge web development tools.
 
-##To Build 
-##npm run build 
+To Build 
 
-##To run 
-##npm start 
+npm run build 
+
+To run 
+
+npm start 
 
 
 
