@@ -11,11 +11,11 @@
 ##🌍 Deployed effortlessly on Render
 ##With ChatMaadi, I’ve aimed to create not just a project but a foundation for learning and exploring cutting-edge web development tools.
 
-## To Build 
-## npm run build 
+##To Build 
+##npm run build 
 
-## To run 
-## npm start 
+##To run 
+##npm start 
 
 
 
