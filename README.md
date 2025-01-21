@@ -1,8 +1,8 @@
 # ChatMaadi_MERN
 
 ## What is ChatMaadi?
-##It’s a powerful chat application built using the MERN Stack with some exciting features like:
-##🌟 Real-time messaging powered by Socket.io
+##It’s a powerful chat application built using the MERN Stack with some exciting features like:\n
+##🌟 Real-time messaging powered by Socket.io\n
 ##🔐 Authentication & Authorization with JWT
 ##⚡ Online user status tracking using Socket.io and React Context
 ##🎨 Beautiful UI designed with TailwindCSS + Daisy UI
